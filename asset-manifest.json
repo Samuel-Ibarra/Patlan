@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Patlan/static/css/main.3a26fd49.css",
-    "main.js": "/Patlan/static/js/main.7c4d21d3.js",
+    "main.js": "/Patlan/static/js/main.b78d7349.js",
     "static/js/453.82bb852b.chunk.js": "/Patlan/static/js/453.82bb852b.chunk.js",
     "static/media/bootstrap-icons.woff?": "/Patlan/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/Patlan/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/Fondo azul patlan.png": "/Patlan/static/media/Fondo azul patlan.9d50b398457b1efbdb25.png",
     "index.html": "/Patlan/index.html",
     "main.3a26fd49.css.map": "/Patlan/static/css/main.3a26fd49.css.map",
-    "main.7c4d21d3.js.map": "/Patlan/static/js/main.7c4d21d3.js.map",
+    "main.b78d7349.js.map": "/Patlan/static/js/main.b78d7349.js.map",
     "453.82bb852b.chunk.js.map": "/Patlan/static/js/453.82bb852b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a26fd49.css",
-    "static/js/main.7c4d21d3.js"
+    "static/js/main.b78d7349.js"
   ]
 }
