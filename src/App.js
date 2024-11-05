@@ -85,7 +85,7 @@ function App() {
       {/* Banner */}
       <div className="banner-container">
         <img
-          src={`${process.env.PUBLIC_URL}/Img/banner Home.png`} // Ruta de la imagen
+          src={`${process.env.PUBLIC_URL}/Img/Banner HOME.png`} // Ruta de la imagen
           alt="Banner"
           className="img-fluid"
         />
