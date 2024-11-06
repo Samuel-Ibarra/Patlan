@@ -92,7 +92,7 @@ function App() {
       </div>
 
       {/* Acerca de Nosotros */}
-      <section id="nosotros" className="my-5">
+      <section id="nosotros" className="my-5 cel">
         <h2>ACERCA DE NOSOTROS</h2>
         <p>
         Patlán Electrodomésticos nace en el año 2009, como una empresa 
@@ -108,7 +108,7 @@ function App() {
 
       {/* Misión y Visión */}
       <section
-        className="mission-vision-section my-5">
+        className="mission-vision-section my-5 cel">
         <div className="row align-items-center">
           <div className="col-lg-12 mx-auto mb-4">
             <div className="mission-vision-header d-flex align-items-center justify-content-center">
@@ -138,7 +138,7 @@ function App() {
       </section>
 
        {/* Ubicación y Horarios */}
-      <section id="contacto" className="contact-section my-5 p-4">
+      <section id="contacto" className="contact-section my-5 p-4 cel">
         <h2>CONTACTO</h2>
         <div className="row align-items-start">
           <div className="col-lg-6 col-md-12">
